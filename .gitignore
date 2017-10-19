@@ -1,0 +1,8 @@
+/node_modules/
+/.vscode/
+/.idea/
+/dist/
+yarn.lock
+npm-debug.log
+eslint.txt
+/public/
