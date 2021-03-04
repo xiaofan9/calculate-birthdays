@@ -1,15 +1,14 @@
 {
-    "dependencies": {
-        "lodash": "^4.17.4"
-    },
-    "name": "birth_horoscope",
-    "version": "1.0.0",
-    "main": "index.js",
-    "devDependencies": {},
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "sifan",
-    "license": "ISC",
-    "description": "传入公历，计算出生辰八字"
+  "name": "calculate-birthdays",
+  "version": "1.0.1",
+  "main": "./src/index.js",
+  "author": "小凡",
+  "license": "MIT",
+  "description": "传入公历，计算出生辰八字",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  }
 }
